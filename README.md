@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aashish</h1>
 <h3 align="center">A Computer Engineering Student From Nepal</h3>
 
-- 🌱 I’m currently learning **advance concepts in C++(OOP,DSA)**
+- 🌱 I’m currently learning **advance concepts in C++( OOP , DSA )**
 
-- 📫 How to reach me **aashishchaudhari249@gmail.com,chaudharyaashish814@gmail.com**
+- 📫 How to reach me  **aashishchaudhari249@gmail.com, chaudharyaashish814@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
