@@ -1,4 +1,4 @@
-<h1 align="center">💼 Hello, I'm Aashish Chaudhary</h1>
+<h1 align="center">💼 Hello, I'm Aashish</h1>
 <p align="center"><em>📈 Focused on Continuous Learning and Practical Growth</em></p>
 
 
@@ -20,10 +20,10 @@ I value **clean code, strong fundamentals, and practical implementation**, and I
 ---
 
 ## 🔭 What I’m Working On
-- Implementing **DSA concepts using C++**
+- Implementing **DSA and OOP concepts using C++**
 - Designing **normalized database schemas**
 - Writing optimized **SQL queries**
-- Preparing for **internships and technical roles**
+- Building Foundation on **Mathematical and Real-life Problem Solving**
 
 ---
 
@@ -73,6 +73,12 @@ I value **clean code, strong fundamentals, and practical implementation**, and I
 </a>
 <a href="https://instagram.com/aasii249" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+</a>
+ <a href="https://x.com/AashishCha9656" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="30" width="40"/>
+</a>
+ <a href="https://wa.me/9815210319" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" height="30" width="40"/>
 </a>
 </p>
 
