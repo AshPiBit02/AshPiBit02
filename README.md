@@ -34,6 +34,10 @@ I value **clean code, strong fundamentals, and practical implementation**, and I
 - **DSA Practice Repository**  
   *C++ | Arrays, Linked Lists, Stacks, Trees*
 
+- **Mathematical Solutions**  
+  *C++ | DSA, Conceptual Problems, Algorithms*
+  
+
 
 ---
 
