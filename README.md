@@ -78,7 +78,7 @@ I value **clean code, strong fundamentals, and practical implementation**, and I
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="30" width="40"/>
 </a>
  <a href="https://wa.me/9815210319" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" height="30" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="30" width="40"/>
 </a>
  <a href="mailto:aashishchaudhari249@gmail.com">
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="40"/>
