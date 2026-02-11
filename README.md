@@ -8,7 +8,6 @@
 ## 👨‍💻 About Me
 I am a dedicated **Computer Engineering student** with a strong interest in building efficient and reliable software systems.  
 My current focus is on **advanced C++ (OOP & Data Structures)** and **Relational Database Management Systems**, with hands-on practice through projects and problem-solving.  
-I value **clean code, strong fundamentals, and practical implementation**, and I am continuously working to grow as a software engineer.
 
 ---
 
