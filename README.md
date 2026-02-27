@@ -11,11 +11,6 @@ My current focus is on **advanced C++ (OOP & Data Structures)** and **Relational
 
 ---
 
-## 🌱 Currently Learning
-- Advanced **C++ (OOP, STL, DSA)**
-- **MySQL & RDBMS concepts**
-- Problem-solving and algorithmic thinking
-
 ---
 
 ## 🔭 What I’m Working On
