@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 I am a dedicated **Computer Engineering student** with a strong interest in building efficient and reliable software systems.  
-My current focus is on **advanced C++ (OOP & Data Structures)** and **Relational Database Management Systems**, with hands-on practice through projects and problem-solving.  
+My current focus is on **advanced OOP & Data Structures** and **Intermediate Concepts on Python**, with hands-on practice through projects and problem-solving.  
 
 ---
 
@@ -16,7 +16,7 @@ My current focus is on **advanced C++ (OOP & Data Structures)** and **Relational
 ## 🔭 What I’m Working On
 - Implementing **DSA and OOP concepts using C++**
 - Designing **normalized database schemas**
-- Writing optimized **SQL queries**
+- Using **OOP and Python's** concept to build realworld modular projects
 - Building Foundation on **Mathematical and Real-life Problem Solving**
 
 ---
@@ -30,6 +30,9 @@ My current focus is on **advanced C++ (OOP & Data Structures)** and **Relational
 
 - **Mathematical Solutions**  
   *C++ | DSA, Conceptual Problems, Algorithms*
+
+- **Modular Projects using Python**  
+  *Python | Basic, Intermediate, OOP*
   
 
 
