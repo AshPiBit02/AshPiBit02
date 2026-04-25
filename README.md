@@ -13,31 +13,6 @@ My current focus is on **advanced OOP & Data Structures** and **Intermediate Con
 
 ---
 
-## 🔭 What I’m Working On
-- Implementing **DSA and OOP concepts using C++**
-- Designing **normalized database schemas**
-- Using **OOP and Python's** concept to build realworld modular projects
-- Building Foundation on **Mathematical and Real-life Problem Solving**
-
----
-
-## 🧠 Featured Projects
-- **Database Management System**  
-  *C++ & MySQL | CRUD operations, normalization, queries*
-
-- **DSA Practice Repository**  
-  *C++ | Arrays, Linked Lists, Stacks, Trees*
-
-- **Mathematical Solutions**  
-  *C++ | DSA, Conceptual Problems, Algorithms*
-
-- **Modular Projects using Python**  
-  *Python | Basic, Intermediate, OOP*
-  
-
-
----
-
 ## 🛠️ Tools & Technologies
 
 ### Programming Languages
