@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 I am a dedicated **Computer Engineering student** with a strong interest in building efficient and reliable software systems.  
-My current focus is on **advanced OOP & Python** and **Python's Libraries**, with hands-on practice through projects and problem-solving.  
+My current focus is on **Core Java** and **Python's Libraries**, with hands-on practice through projects and problem-solving.  
 
 ---
 
@@ -61,7 +61,7 @@ My current focus is on **advanced OOP & Python** and **Python's Libraries**, wit
 ---
 
 ## 📊 GitHub Overview
-- 📌 Actively practicing **DSA and problem solving**
+- 📌 Actively learning **core Java concepts and problem solving**
 - 🧠 Focused on **core CS fundamentals**
 - 🚀 Building academic and practical projects consistently
 
