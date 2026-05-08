@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 I am a dedicated **Computer Engineering student** with a strong interest in building efficient and reliable software systems.  
-My current focus is on **Core Java** and **Python's Libraries**, with hands-on practice through projects and problem-solving.  
+My current focus is on **Advanced Java** and **Python's Libraries**, with hands-on practice through projects and problem-solving.  
 
 ---
 
@@ -17,6 +17,10 @@ My current focus is on **Core Java** and **Python's Libraries**, with hands-on p
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=coffeescript&logoColor=white)
+
+
+
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -61,7 +65,7 @@ My current focus is on **Core Java** and **Python's Libraries**, with hands-on p
 ---
 
 ## 📊 GitHub Overview
-- 📌 Actively learning **core Java concepts and problem solving**
+- 📌 Actively learning **Advanced Java concepts and problem solving**
 - 🧠 Focused on **core CS fundamentals**
 - 🚀 Building academic and practical projects consistently
 
