@@ -4,8 +4,8 @@
 ---
 
 ## 👨‍💻 About Me
-I am a dedicated **Computer Engineering student** with a strong interest in building efficient and reliable software systems.  
-My current focus is on **Advanced Java** and **Python's Libraries**, with hands-on practice through projects and problem-solving.  
+A dedicated **Computer Engineering student** with a strong interest in building efficient and reliable software systems.  
+My current focus is on **Advanced Java, its FrameWorks** and **Python's Libraries**, with hands-on practice through projects and problem-solving.  
 
 ---
 
@@ -37,7 +37,7 @@ My current focus is on **Advanced Java** and **Python's Libraries**, with hands-
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
 
