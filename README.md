@@ -24,12 +24,10 @@ My current focus is on **Advanced Java, its FrameWorks** and **Python's Librarie
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-### Web Development
+### Software Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### Software Development
 ![Swing](https://img.shields.io/badge/Swing-007396?style=flat-squaree&logo=java&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-FF6F00?style=flat-square&logo=java&logoColor=white)
