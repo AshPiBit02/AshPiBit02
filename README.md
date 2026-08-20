@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 A dedicated **Computer Engineering student** with a strong interest in building efficient and reliable software systems.  
-My current focus is on **Advanced Java, its FrameWorks** and **Python's Libraries**, with hands-on practice through projects and problem-solving.  
+My current focus is on **Python** & **Its Ecosystem**, with hands-on practice through projects and problem-solving.  
 
 ---
 
@@ -66,7 +66,7 @@ My current focus is on **Advanced Java, its FrameWorks** and **Python's Librarie
 ---
 
 ## 📊 GitHub Overview
-- 📌 Actively learning **Advanced Java concepts and problem solving**
+- 📌 Actively learning **Advanced Java concepts, problem solving & Python's Ecosystem**
 - 🧠 Focused on **core CS fundamentals**
 - 🚀 Building academic and practical projects consistently
 
