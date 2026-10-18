@@ -4,7 +4,7 @@
 ---
 
 ## 👨‍💻 About Me
-A dedicated **Computer Engineering student** with a strong interest in building efficient and reliable software systems.  
+A dedicated **Computer Engineering student** with a strong interest in building efficient and reliable software systems. 
 My current focus is on **Python** & **Its Ecosystem**, with hands-on practice through projects(modular/mini) and problem-solving.  
 
 ---
