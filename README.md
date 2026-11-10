@@ -57,13 +57,10 @@ A dedicated **Computer Engineering student** with a strong interest in building 
 
 
 ---
-
-
 ## 📊 GitHub Overview
 - 📌 Actively learning **Advanced programming concepts, problem solving & Python's Ecosystem**
 - 🧠 Focused on **core CS fundamentals**
 - 🚀 Building academic and practical projects consistently
-
 ---
 
 🎯 **Career Objective:**  
