@@ -7,7 +7,6 @@
 A dedicated **Computer Engineering student** with a strong interest in building efficient and reliable software system, whose current focus is on **Python** & **Its Ecosystem**, with hands-on practice through projects(modular) and problem-solving.  
 
 ---
-
 ---
 
 ## 🛠️ Tools & Technologies
